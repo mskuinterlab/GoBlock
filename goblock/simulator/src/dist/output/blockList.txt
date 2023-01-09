@@ -1,0 +1,3 @@
+OnChain : 1 : goblock.block.ProofOfWorkBlock@24a35978
+OnChain : 2 : goblock.block.ProofOfWorkBlock@15eb5ee5
+OnChain : 3 : goblock.block.ProofOfWorkBlock@66498326
