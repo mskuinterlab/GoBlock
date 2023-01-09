@@ -1,8 +1,8 @@
-## What is AlgoSim?
-AlgoSim is a highly customizable blockchain simulator. Thanks to its many customization options, it can be used to perform the desired tests on blockchains in the simulator environment, especially for creating new connection algorithms.
+## What is GoBlock?
+GoBlock is a highly customizable blockchain simulator. Thanks to its many customization options, it can be used to perform the desired tests on blockchains in the simulator environment, especially for creating new connection algorithms.
 
 ## 1. Prerequisites
-- AlgoSim is available on any operating system that supports Java JDK 1.8.0 or higher.
+- GoBlock is available on any operating system that supports Java JDK 1.8.0 or higher.
 - Depending on the IDE/compiling method, the gson library inside of the lib folder might be needed to add as a referenced library before compiling the code.
 
 ## 2. Input
